@@ -53,6 +53,7 @@ Key findings were presented using the following visualizations:
 - **Scatter plots** to demonstrate correlations between activity and sleep.
 **Tools Used**:
 - R (`ggplot2`), Google Sheets, and Tableau for visualization.
+- 
 -<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/aa0d7856-7f06-414f-9b01-e6bfbbf36b5f" />
 -<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1f1c3d4e-5f30-4bfc-9679-206e62d0a23b" />
   
