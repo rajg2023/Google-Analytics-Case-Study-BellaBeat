@@ -47,6 +47,9 @@ Key findings were presented using the following visualizations:
 - **Bar charts** to compare different activity types.
 - **Scatter plots** to demonstrate correlations between activity and sleep.
 
+- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2dc4fdf9-2137-4f8b-8241-160be0d8ddb9" />
+
+
 **Tools Used**:
 - R (`ggplot2`), Google Sheets, and Tableau for visualization.
   
