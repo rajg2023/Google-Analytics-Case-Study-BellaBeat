@@ -35,7 +35,7 @@ These stakeholders were crucial for understanding both the business needs and us
 - Date fields were unified, and datasets were merged where appropriate.
 - Data was aggregated from minute-level to daily summaries using SQL `GROUP BY` and R’s `dplyr` for analysis readiness.
 - All cleaning steps were documented to ensure reproducibility.
-  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2dc4fdf9-2137-4f8b-8241-160be0d8ddb9" />
+- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2dc4fdf9-2137-4f8b-8241-160be0d8ddb9" />
 
 ## Analysis (Analyze Phase)
 - Explored patterns in daily steps, active minutes, sedentary time, and sleep hours.
@@ -43,7 +43,7 @@ These stakeholders were crucial for understanding both the business needs and us
 - Noted dips in weekly activity on weekends and identified key time frames when users were most engaged.
 - Used **BigQuery** for aggregation and joins, and **R** scripts for exploratory visualizations (boxplots, line charts).
 - <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/0ef145c4-21b2-4b8d-8f7c-894c52a8453d" />
-  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1537e048-6b0f-43c5-bf4f-a267e9d2fe25" />
+- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1537e048-6b0f-43c5-bf4f-a267e9d2fe25" />
 
 
 ## Findings & Visualizations (Share Phase)
@@ -54,7 +54,7 @@ Key findings were presented using the following visualizations:
 **Tools Used**:
 - R (`ggplot2`), Google Sheets, and Tableau for visualization.
 -<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/aa0d7856-7f06-414f-9b01-e6bfbbf36b5f" />
-  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1f1c3d4e-5f30-4bfc-9679-206e62d0a23b" />
+-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1f1c3d4e-5f30-4bfc-9679-206e62d0a23b" />
   
 The insights were summarized and presented to the executive team with actionable patterns and clear data storytelling.
 
