@@ -26,12 +26,12 @@ These stakeholders were crucial for understanding both the business needs and us
 ## Data Sources (Prepare Phase)
 **Primary Source**: Fitbit Fitness Tracker dataset (public domain), including minute-level activity, sleep, and heart rate data from 30 users.
 
-- The data was stored in CSV files and imported using SQL and R Studio for analysis.
+- The data was stored in CSV files and imported using BigQuery, SQL and R Studio for analysis.
 - Data bias and credibility were reviewed, with consideration of sample size and public source limitations.
 -[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit/data?select=mturkfitbit_export_4.12.16-5.12.16)
 
 ## Data Cleaning & Preparation (Process Phase)
-- Errors and missing values were identified and cleaned using SQL filtering, spreadsheet inspection, and R scripts for outlier removal.
+- Errors and missing values were identified and cleaned using BigQuery, SQL filtering, spreadsheet inspection, and R scripts for outlier removal.
 - Date fields were unified, and datasets were merged where appropriate.
 - Data was aggregated from minute-level to daily summaries using SQL `GROUP BY` and R’s `dplyr` for analysis readiness.
 - All cleaning steps were documented to ensure reproducibility.
@@ -43,6 +43,7 @@ These stakeholders were crucial for understanding both the business needs and us
 - Noted dips in weekly activity on weekends and identified key time frames when users were most engaged.
 - Used **BigQuery** for aggregation and joins, and **R** scripts for exploratory visualizations (boxplots, line charts).
 - <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/0ef145c4-21b2-4b8d-8f7c-894c52a8453d" />
+- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1537e048-6b0f-43c5-bf4f-a267e9d2fe25" />
 
 
 ## Findings & Visualizations (Share Phase)
